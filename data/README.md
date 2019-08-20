@@ -4,5 +4,5 @@ Os dados são referentes ao campeonato brasileiro dos anos 2014-2019. Eles mostr
 
 # Créditos
 
-⋅⋅* Os dados brutos foram obtidos do repositório [caRtola](https://github.com/henriquepgomide/caRtola).
+* Os dados brutos foram obtidos do repositório [caRtola](https://github.com/henriquepgomide/caRtola).
 
