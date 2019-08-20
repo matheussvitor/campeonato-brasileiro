@@ -1,2 +1,2 @@
 # soccer
-Building a champion team
+Construindo um time de futebol campeão com o mínimo possível de recurso financeiro.
